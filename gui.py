@@ -16,8 +16,8 @@ import time
 from sokoban import Warehouse
 from mySokobanSolver import solve_sokoban_elem
 
-__author__ = "Frederic Maire"
-__version__ = "1.3"
+__author__ = "Frederic Maire , Aswin Jayaraman, Phi Long"
+__version__ = "1.3.2"
 
 # Directory where this file is located
 _ROOT = os.path.abspath(os.path.dirname(__file__))
